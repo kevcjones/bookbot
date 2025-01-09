@@ -1,2 +1,4 @@
-# bookbot
-Boot.dev bookbot 
+# Book bot
+
+Boot.dev bookbot challenge
+my first project
